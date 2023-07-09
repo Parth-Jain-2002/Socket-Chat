@@ -1,0 +1,11 @@
+There are 2 files in this folder:
+1. server.py 
+2. client.py
+
+How to run the code:
+1. Open 2 terminals
+2. In one terminal, run the server.py file using the command: python server.py
+3. In the other terminal, run the client.py file using the command: python client.py
+
+The detailed working, design and implementation with screenshots have been explained in the report file.
+
